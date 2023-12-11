@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1702278714726,
+      "tag": "0000_loud_hex",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1702280535071,
+      "tag": "0001_supreme_tarantula",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1702281029295,
+      "tag": "0002_cold_bushwacker",
+      "breakpoints": true
+    }
+  ]
+}
